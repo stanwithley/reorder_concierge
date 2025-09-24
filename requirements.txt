@@ -1,0 +1,12 @@
+fastapi~=0.117.1
+uvicorn[standard]
+gspread~=6.2.1
+google-auth
+python-dotenv~=1.1.1
+python-dateutil~=2.9.0.post0
+aiosmtplib~=4.0.2
+streamlit
+pandas
+requests
+
+protobuf~=6.32.1
